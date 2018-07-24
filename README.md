@@ -1,9 +1,9 @@
-# phonegap-checkGPS
+# sss-checkGPS
 Plugin to Check if GPS enabled on iOS and Android
 
 ## install
 ```
-yourAppDir$ phonegap plugin add https://github.com/fastrde/phonegap-checkGPS.git
+yourAppDir$ cordova plugin add https://github.com/tommiuten/sss-cordova-plugin-checkgps.git
 ```
 
 ## usage
